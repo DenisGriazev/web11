@@ -1,0 +1,70 @@
+.edit{
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+  float:center;
+  vertical-align: middle;
+  color: azure;
+ }
+ .edit img{
+    vertical-align: middle;
+   }
+.edit:hover{
+    background-color: darkgray;
+}
+ 
+.favorites{
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+  float:center;
+  vertical-align: middle;
+  color: azure;
+ }
+ .favorites img{
+    vertical-align: middle;
+   }
+ .favorites:hover{
+    background-color: darkgray;
+}
+.history{
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+  float:center;
+  vertical-align: middle;
+  color: azure;
+ }
+.history img{
+    vertical-align: middle;
+ }
+.history:hover{
+    background-color: darkgray;
+}
+.security{
+width: 200px;
+height: 100px;
+background-color: gray;
+float:center;
+vertical-align: middle;
+color: azure;
+}
+.security img{
+vertical-align: middle;
+}
+.security:hover{
+    background-color: darkgray;
+}
+.settings{
+    width: 200px;
+    height: 100px;
+    background-color: gray;
+    float:center;
+    vertical-align: middle;
+    color: azure;
+   }
+.settings img{
+      vertical-align: middle;
+}
+.settings:hover{
+    background-color: darkgray;}
