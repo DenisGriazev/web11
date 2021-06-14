@@ -1,0 +1,123 @@
+h1
+ {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.style{
+    text-align: center;
+}  
+
+.Cheese{
+    border: 2px solid gray;
+    width: 128px;
+    margin-left: 30px;
+    display: inline-block;
+}
+    
+.Cheese1 {
+    text-align: center;
+}
+  
+.Apple{
+border: 2px solid gray;
+width: 128px;;
+margin-left: 30px;
+display: inline-block;
+}
+
+.Apple1 {
+ text-align: center;
+}
+
+
+.Corn{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+}
+    
+.Corn1{
+     text-align: center;
+}
+
+.Mushroom{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+}
+    
+.Mushroom1{
+     text-align: center;
+}
+    
+.Garlic{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+}
+    
+.Garlic1{
+     text-align: center;
+}
+.Beef{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+}
+    
+.Beef1{
+     text-align: center;
+}
+.Fish{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+}
+    
+.Fish1{
+     text-align: center;
+}
+.Eggs{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+}
+    
+.Eggs1{
+     text-align: center;
+}
+.Coriander{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+}
+    
+.Coriander1{
+     text-align: center;
+}
+.Pepper{
+    border: 2px solid gray;
+    width: 128px;;
+    margin-left: 30px;
+    display: inline-block;
+    margin-top: 30px;
+}
+    
+.Pepper1{
+     text-align: center;
+}
+.text{
+    text-align: center;
+}
